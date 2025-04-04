@@ -18,7 +18,7 @@
 </table>
 
 <h2>Qu'est-ce qu'un code de parrainage Bybit ?</h2>
-<p>Un code de parrainage Bybit (TOPTOP) (également connu sous le nom de code promo Bybit, code d'invitation Bybit, ou lien d'affiliation Bybit) est un code alphanumérique spécial que les nouveaux utilisateurs peuvent entrer lors de leur inscription sur Bybit. Il offre des avantages exclusifs tels que :</p>
+<p>Un code de parrainage Bybit (62545) (également connu sous le nom de code promo Bybit, code d'invitation Bybit, ou lien d'affiliation Bybit) est un code alphanumérique spécial que les nouveaux utilisateurs peuvent entrer lors de leur inscription sur Bybit. Il offre des avantages exclusifs tels que :</p>
 <ul>
         <li>Bonus d'inscription Bybit pour les nouveaux utilisateurs</li>
         <li>Réduction des frais de trading avec le programme de récompenses Bybit</li>
